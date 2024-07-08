@@ -1,0 +1,37 @@
+[
+  {
+    "id": "df0ef22d-9d54-4e52-9146-2ef72cba544c",
+    "name": "brahm",
+    "email": "brhaddmssf@gmail.com",
+    "password": "$2a$10$B9inS0mZK0AOQIXzJgi6iOCAbqXFA2WI3ebmMnwgTeitzWAj0b55m",
+    "date": "2024-07-03T08:31:53.010Z"
+  },
+  {
+    "id": "759d5789-5ed4-4642-b5fa-ba7866dae022",
+    "name": "brahm",
+    "email": "kapilabrham@gmail.com",
+    "password": "$2a$10$A8./FVkG0WUyVC4pZi82VuLWvEgMBrqamShy5iCFECuPP1u9RV3p.",
+    "date": "2024-07-08T13:50:41.062Z"
+  },
+  {
+    "id": "58e1215c-2e6a-451f-947d-89b65d304b0a",
+    "name": "brahm",
+    "email": "kapibrham@gmail.com",
+    "password": "$2a$10$kPlagStQy5ftdeyzD/TE9uUUWRQIgyIoTTPQJhYJ3GmTE0nu0zEOy",
+    "date": "2024-07-08T13:51:43.580Z"
+  },
+  {
+    "id": "124e65e7-67a2-4e79-a49b-0d38557dc090",
+    "name": "brahm",
+    "email": "rrkbrahm@gmail.com",
+    "password": "$2a$10$Xo8KIDycGcUhySy7kj4Xtevs8yDM3/Vr.3JsAGe2cwWURdZ/RYHn2",
+    "date": "2024-07-08T13:57:14.174Z"
+  },
+  {
+    "id": "6562d6f7-a093-4144-87aa-73eb25bdfdd7",
+    "name": "ram",
+    "email": "ram@gmail.com",
+    "password": "$2a$10$ONVUZILGcQEBNqUVWKW19.3S0/zi5NbQBhYv1vm4rncNiRegGohAi",
+    "date": "2024-07-08T14:13:26.718Z"
+  }
+]
